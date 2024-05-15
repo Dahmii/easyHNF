@@ -16,11 +16,6 @@
 
                 <div class="page-banner-content">
                     <h2 class="page-title">FAQ</h2>
-
-                    <ul class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active">FAQ</li>
-                    </ul>
                 </div>
             </div>
         </div>
@@ -46,15 +41,13 @@
                                         </button>
                                         <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionFaq">
                                             <div class="accordion-body">
-                                                <p>We only offer nutrition plans for now. The basic plans are set plans but you get personalised plans if you opt for the nutrition coaching or custom plan.
-                                                </p>
+                                                <p>Absolutely! We understand that every individual has unique needs and goals. Our team of experts is here to create personalized nutrition and fitness plans tailored to your specific requirements, lifestyle, and preferences.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <button class="collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
-                                            Can my subscription be ended at anytime?
-
+                                            How can your products/services benefit my health and fitness journey?
                                         </button>
                                         <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
                                             <div class="accordion-body">
@@ -64,43 +57,21 @@
                                     </div>
                                     <div class="accordion-item">
                                         <button class="collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
-                                            How much weight can I expect to lose on your plans?
+                                            Can I consult with a nutritionist or fitness expert through your platform?
                                         </button>
                                         <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
                                             <div class="accordion-body">
-                                                <p>We can’t give figures for this because how much you lose will depend on a couple of factors like your starting weight and activity level.
-                                                </p>
+                                                <p>Yes, we offer virtual consultations with experienced nutritionists and fitness experts to address your concerns, provide personalized recommendations, and guide you on your health and fitness journey. Schedule a consultation today to get started!</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="accordion-item">
                                         <button class="collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
-                                            Can I consult with a dietician on your platform?
-
+                                            How can your products/services benefit my health and fitness journey?
                                         </button>
                                         <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
                                             <div class="accordion-body">
-                                                <p>Yes, you’re entitled to consultations if you’re on our custom plan or nutrition coaching plan.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <button class="collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive">
-                                            Do you have plans for weight gain?
-                                        </button>
-                                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
-                                            <div class="accordion-body">
-                                                <p>We only have weight gain plans available for custom and nutrition coaching plans.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="accordion-item">
-                                        <button class="collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix">
-                                            Can I purchase more than one plan
-                                        </button>
-                                        <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFaq">
-                                            <div class="accordion-body">
-                                                <p>Yes, you can.</p>
+                                                <p>Our products and services are carefully curated to support your health and fitness goals. From nutritious supplements to personalized workout plans and dietary advice, we provide comprehensive solutions to enhance your overall well-being and optimize performance.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -108,13 +79,14 @@
 
                             </div>
 
-                            <!-- <div class="faq-btn">
+                            <div class="faq-btn">
                                 <a href="#" class="btn btn-primary btn-hover-secondary">Other’s Question</a>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
 
         <?php @include("./components/footer.php"); ?>
