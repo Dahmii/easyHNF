@@ -271,14 +271,13 @@
                             <div class="blog">
                                 <div class="blog-date-meta">
                                     <div class="meta">
-                                        <p class="author">By: <a href="https://www.thisdaylive.com/index.php/2021/08/08/a-beginners-guide-to-intermittent-fasting ">Arinola Odunuga <p>ThisDayLive</p></a></p>
+                                        <p class="author">By: <a href="https://medium.com/@easyhnf/fueling-your-fitness-journey-how-nutrition-nurtures-health-1cc5341d0b06">Arinola Odunuga <p>Medium</p></a></p>
                                     </div>
                                 </div>
 
-                                <h4 class="title"><a href="https://www.thisdaylive.com/index.php/2021/08/08/a-beginners-guide-to-intermittent-fasting ">A Beginner’s Guide to Intermittent Fasting</a></h4>
-                                <p>Intermittent fasting is not a diet, it is a meal timing plan.
-
-                                    What you’re doing is focusing on a specific period of time in which you’re abstaining from food and a set time when you consume all your calories</p>
+                                <h4 class="title"><a href="https://medium.com/@easyhnf/fueling-your-fitness-journey-how-nutrition-nurtures-health-1cc5341d0b06 ">“Fueling Your Fitness Journey: How Nutrition Nurtures Health”
+                                    </a></h4>
+                                <p>With a track record of assisting over 1,000 individuals in achieving their fitness objectives and managing health conditions</p>
                             </div>
                         </div>
 
